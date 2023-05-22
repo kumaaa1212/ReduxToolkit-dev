@@ -25,8 +25,7 @@ const cartItems = [
     title: "Three.jsでモダンウェブサイト構築講座",
     price: 14000,
     img: "https://uploda1.ysklog.net/uploda/59060b3cd3.png",
-    amount: 1,
+    amount: 10,
   },
 ];
-
 export default cartItems;
